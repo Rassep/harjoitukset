@@ -1,0 +1,12 @@
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\bin\Debug\netcoreapp3.1\Harjoitus 7.exe
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\bin\Debug\netcoreapp3.1\Harjoitus 7.deps.json
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\bin\Debug\netcoreapp3.1\Harjoitus 7.runtimeconfig.json
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\bin\Debug\netcoreapp3.1\Harjoitus 7.runtimeconfig.dev.json
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\bin\Debug\netcoreapp3.1\Harjoitus 7.dll
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\bin\Debug\netcoreapp3.1\Harjoitus 7.pdb
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.AssemblyInfoInputs.cache
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.AssemblyInfo.cs
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.dll
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.pdb
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.genruntimeconfig.cache
