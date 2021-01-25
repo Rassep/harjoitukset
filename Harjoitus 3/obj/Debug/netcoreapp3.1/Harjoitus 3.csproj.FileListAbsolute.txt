@@ -1,0 +1,13 @@
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).exe
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).deps.json
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).runtimeconfig.json
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).runtimeconfig.dev.json
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).dll
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\bin\Debug\netcoreapp3.1\Harjoitus 3 (KT).pdb
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).csprojAssemblyReference.cache
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).AssemblyInfoInputs.cache
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).AssemblyInfo.cs
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).csproj.CoreCompileInputs.cache
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).dll
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).pdb
+D:\Visual_Studio\GITHUB\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPFSovellukset\Harjoitus 3 (KT)\obj\Debug\netcoreapp3.1\Harjoitus 3 (KT).genruntimeconfig.cache
